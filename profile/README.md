@@ -1,7 +1,7 @@
 # TablePlus Mac – Modern Database Management for macOS
 
 <div align="center">  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Efm2R1vg4xOguNbWGZK3yyu0pCvEEQMjTQ&s" alt="TablePlus Mac Logo" width="256" height="256">  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Efm2R1vg4xOguNbWGZK3yyu0pCvEEQMjTQ&s" alt="TablePlus Mac Logo" width="556" height="556">  
 </div>  
 
 <div align="center">  
